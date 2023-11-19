@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE\\Projects\\VTDarkness\\Source\\VTDarkness\\VTDarkness.Build.cs",
+		"D:\\UE\\Projects\\VTDarkness\\Source\\VTDarkness.Target.cs",
+		"D:\\UE\\Projects\\VTDarkness\\Source\\VTDarknessEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}

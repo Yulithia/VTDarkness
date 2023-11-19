@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VTDarkness",
+			"Path": "..\\Source\\VTDarkness.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VTDarknessEditor",
+			"Path": "..\\Source\\VTDarknessEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
