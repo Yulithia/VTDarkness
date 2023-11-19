@@ -2,8 +2,6 @@
 
 Celem gracza jest wydostanie się z budynku przemierzając korytarze w celu odnalezienia wyjścia.
 
-## Streszczenie
-
 ## Harmonogram:
 
 - pażdziernik: skonfigurowanie Unreal Engine, czytanie dokumentacji, stworzenie prostych grafik
