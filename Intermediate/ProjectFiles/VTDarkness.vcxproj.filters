@@ -50,6 +50,18 @@
     <ClInclude Include="..\..\Source\VTDarkness\FPCharacter.h">
       <Filter>Source\VTDarkness</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\VTDarkness\StaticLightFix.cpp">
+      <Filter>Source\VTDarkness</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VTDarkness\StaticLightFix.h">
+      <Filter>Source\VTDarkness</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VTDarkness\StaticLightsFix.cpp">
+      <Filter>Source\VTDarkness</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VTDarkness\StaticLightsFix.h">
+      <Filter>Source\VTDarkness</Filter>
+    </ClInclude>
     <None Include="..\..\Source\VTDarkness\VTDarkness.Build.cs">
       <Filter>Source\VTDarkness</Filter>
     </None>
