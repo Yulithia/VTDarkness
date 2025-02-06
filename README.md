@@ -1,10 +1,8 @@
-# Venturing Through Darkness
+"Walking simulator" inspired by Backrooms. The player's goal is to find an exit (currently by finding the cube). 
+Youtube video: https://youtu.be/cDy0EOVI5iA
 
-Celem gracza jest wydostanie się z budynku przemierzając korytarze w celu odnalezienia wyjścia.
-
-## Harmonogram:
-
-- pażdziernik: skonfigurowanie Unreal Engine, czytanie dokumentacji, stworzenie prostych grafik
-- listopad: stworzenie modelu poruszania się i pierwszych pomieszczeń
-- grudzień: tworzenie proceduralne generowanych korytarzy, tworzenie oświetlenia
-- styczeń: testy, poprawianie błędów. 
+#Features
+- The map made of procedurally generated walls.
+- Post-processes are applied to the camera to imitate horror VHS camera.
+- Minimal lighting to add the horror feeling.
+- Backrooms textures via Megascans Library.
