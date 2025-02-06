@@ -1,4 +1,4 @@
-"Walking simulator" inspired by Backrooms. The player's goal is to find an exit (currently by finding the cube). 
+"Walking simulator" inspired by Backrooms. The player's goal is to find an exit (currently by finding the cube).  </br>
 Youtube video: https://youtu.be/cDy0EOVI5iA
 
 # Features
